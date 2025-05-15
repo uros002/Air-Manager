@@ -33,6 +33,7 @@
 .table-container {
     border-radius: 8px;
     max-width: 95%;
+    width: 95%;
     margin: 20px auto;
     display: flex;
     justify-content: center;
