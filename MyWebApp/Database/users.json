@@ -1,0 +1,266 @@
+[
+  {
+    "ID": 0,
+    "Username": "user",
+    "Password": "user",
+    "Name": "John",
+    "Surname": "Doe",
+    "Email": "john.doe@example.com",
+    "DateOfBirth": "2016-09-06T00:00:00Z",
+    "Gender": 0,
+    "Type": 0,
+    "Rezervacije": [
+      {
+        "ID": 1663227939,
+        "Korisnik": "user",
+        "Aviokompanija": "Serbia Air",
+        "Let": {
+          "IsDeleted": false,
+          "ID": 749066356,
+          "Aviokompanija": "Serbia Air",
+          "PolaznaDestinacija": "Nis",
+          "DolaznaDestinacija": "Beograd",
+          "DatumIVremePolaska": "2024-06-30T13:35:00Z",
+          "DatumIVremeDolaska": "2024-06-30T15:00:00Z",
+          "BrSlobodnihMesta": 199,
+          "BrZauzetihMesta": 1,
+          "Cena": 50.0,
+          "Status": 2
+        },
+        "BrPutnika": 1,
+        "UkupnaCena": 50.0,
+        "Status": 3
+      },
+      {
+        "ID": 1124320635,
+        "Korisnik": "user",
+        "Aviokompanija": "Emirates Air",
+        "Let": {
+          "IsDeleted": true,
+          "ID": 4,
+          "Aviokompanija": "Emirates Air",
+          "PolaznaDestinacija": "Beograd",
+          "DolaznaDestinacija": "Barcelona",
+          "DatumIVremePolaska": "2024-07-19T00:00:00",
+          "DatumIVremeDolaska": "2024-07-19T04:00:00",
+          "BrSlobodnihMesta": 200,
+          "BrZauzetihMesta": 0,
+          "Cena": 40.0,
+          "Status": 1
+        },
+        "BrPutnika": 1,
+        "UkupnaCena": 40.0,
+        "Status": 2
+      },
+      {
+        "ID": 1499728295,
+        "Korisnik": "user",
+        "Aviokompanija": "Serbia Air",
+        "Let": {
+          "IsDeleted": true,
+          "ID": 6,
+          "Aviokompanija": "Serbia Air",
+          "PolaznaDestinacija": "Beograd",
+          "DolaznaDestinacija": "Chicago",
+          "DatumIVremePolaska": "2024-07-29T00:00:00",
+          "DatumIVremeDolaska": "2024-07-29T04:00:00",
+          "BrSlobodnihMesta": 99,
+          "BrZauzetihMesta": 1,
+          "Cena": 500.0,
+          "Status": 1
+        },
+        "BrPutnika": 1,
+        "UkupnaCena": 500.0,
+        "Status": 2
+      },
+      {
+        "ID": 739645273,
+        "Korisnik": "user",
+        "Aviokompanija": "Wizz",
+        "Let": {
+          "IsDeleted": false,
+          "ID": 1,
+          "Aviokompanija": "Wizz",
+          "PolaznaDestinacija": "Banja Luka",
+          "DolaznaDestinacija": "Pariz",
+          "DatumIVremePolaska": "2024-06-29T00:00:00",
+          "DatumIVremeDolaska": "2024-07-09T04:00:00",
+          "BrSlobodnihMesta": 48,
+          "BrZauzetihMesta": 2,
+          "Cena": 25.0,
+          "Status": 2
+        },
+        "BrPutnika": 3,
+        "UkupnaCena": 75.0,
+        "Status": 3
+      }
+    ]
+  },
+  {
+    "ID": 1,
+    "Username": "admin",
+    "Password": "admin",
+    "Name": "Uros",
+    "Surname": "Grahovac",
+    "Email": "urosgrahovac002@gmail.com",
+    "DateOfBirth": "2002-06-07T00:00:00",
+    "Gender": 0,
+    "Type": 1,
+    "Rezervacije": []
+  },
+  {
+    "ID": 2,
+    "Username": "customuser",
+    "Password": "customuser",
+    "Name": "CustomUser",
+    "Surname": "CustomUser",
+    "Email": "customuser@gmail.com",
+    "DateOfBirth": "2002-06-10T00:00:00",
+    "Gender": 2,
+    "Type": 0,
+    "Rezervacije": []
+  },
+  {
+    "ID": 439084415,
+    "Username": "Nana",
+    "Password": "lunailara",
+    "Name": "Jelena",
+    "Surname": "Bobar ",
+    "Email": "grabonana@gmail.com",
+    "DateOfBirth": "1984-10-13T00:00:00Z",
+    "Gender": 1,
+    "Type": 0,
+    "Rezervacije": []
+  },
+  {
+    "ID": 363884616,
+    "Username": "losmi",
+    "Password": "sifra123",
+    "Name": "Milos",
+    "Surname": "Milosevic",
+    "Email": "losmi@gmail.com",
+    "DateOfBirth": "2001-07-10T00:00:00Z",
+    "Gender": 0,
+    "Type": 0,
+    "Rezervacije": [
+      {
+        "ID": 510785668,
+        "Korisnik": "losmi",
+        "Aviokompanija": "Wizz",
+        "Let": {
+          "IsDeleted": false,
+          "ID": 582606612,
+          "Aviokompanija": "Wizz",
+          "PolaznaDestinacija": "Beograd",
+          "DolaznaDestinacija": "Minhen",
+          "DatumIVremePolaska": "2024-07-04T12:00:00Z",
+          "DatumIVremeDolaska": "2024-07-05T14:00:00Z",
+          "BrSlobodnihMesta": 118,
+          "BrZauzetihMesta": 2,
+          "Cena": 25.0,
+          "Status": 0
+        },
+        "BrPutnika": 2,
+        "UkupnaCena": 50.0,
+        "Status": 2
+      },
+      {
+        "ID": 1056732763,
+        "Korisnik": "losmi",
+        "Aviokompanija": "Wizz",
+        "Let": {
+          "IsDeleted": false,
+          "ID": 1,
+          "Aviokompanija": "Wizz",
+          "PolaznaDestinacija": "Banja Luka",
+          "DolaznaDestinacija": "Pariz",
+          "DatumIVremePolaska": "2024-06-29T00:00:00",
+          "DatumIVremeDolaska": "2024-07-09T04:00:00",
+          "BrSlobodnihMesta": 48,
+          "BrZauzetihMesta": 2,
+          "Cena": 25.0,
+          "Status": 2
+        },
+        "BrPutnika": 1,
+        "UkupnaCena": 25.0,
+        "Status": 3
+      }
+    ]
+  },
+  {
+    "ID": 875851719,
+    "Username": "minja",
+    "Password": "volimukija",
+    "Name": "Minja",
+    "Surname": "Jovic",
+    "Email": "minja@gmail.com",
+    "DateOfBirth": "2002-04-25T00:00:00Z",
+    "Gender": 1,
+    "Type": 0,
+    "Rezervacije": [
+      {
+        "ID": 1823895014,
+        "Korisnik": "minja",
+        "Aviokompanija": "Serbia Air",
+        "Let": {
+          "IsDeleted": false,
+          "ID": 1793313338,
+          "Aviokompanija": "Serbia Air",
+          "PolaznaDestinacija": "Beograd",
+          "DolaznaDestinacija": "Dubai",
+          "DatumIVremePolaska": "2024-06-30T22:50:00Z",
+          "DatumIVremeDolaska": "2024-06-30T23:30:00Z",
+          "BrSlobodnihMesta": 0,
+          "BrZauzetihMesta": 2,
+          "Cena": 50.0,
+          "Status": 2
+        },
+        "BrPutnika": 2,
+        "UkupnaCena": 100.0,
+        "Status": 3
+      },
+      {
+        "ID": 1120026641,
+        "Korisnik": "minja",
+        "Aviokompanija": "Wizz",
+        "Let": {
+          "IsDeleted": false,
+          "ID": 582606612,
+          "Aviokompanija": "Wizz",
+          "PolaznaDestinacija": "Beograd",
+          "DolaznaDestinacija": "Minhen",
+          "DatumIVremePolaska": "2024-07-04T12:00:00Z",
+          "DatumIVremeDolaska": "2024-07-05T14:00:00Z",
+          "BrSlobodnihMesta": 119,
+          "BrZauzetihMesta": 1,
+          "Cena": 25.0,
+          "Status": 0
+        },
+        "BrPutnika": 1,
+        "UkupnaCena": 25.0,
+        "Status": 2
+      },
+      {
+        "ID": 588990337,
+        "Korisnik": "minja",
+        "Aviokompanija": "Wizz",
+        "Let": {
+          "IsDeleted": false,
+          "ID": 2000203273,
+          "Aviokompanija": "Wizz",
+          "PolaznaDestinacija": "Bijeljina",
+          "DolaznaDestinacija": "Budva",
+          "DatumIVremePolaska": "2024-07-03T12:00:00Z",
+          "DatumIVremeDolaska": "2024-07-03T15:00:00Z",
+          "BrSlobodnihMesta": 0,
+          "BrZauzetihMesta": 2,
+          "Cena": 500.0,
+          "Status": 0
+        },
+        "BrPutnika": 2,
+        "UkupnaCena": 1000.0,
+        "Status": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "ID": 1522954885,
+    "Recezent": {
+      "ID": 0,
+      "Username": "user",
+      "Password": "user",
+      "Name": "John",
+      "Surname": "Doe",
+      "Email": "john.doe@example.com",
+      "DateOfBirth": "2016-09-06T00:00:00Z",
+      "Gender": 0,
+      "Type": 0,
+      "Rezervacije": [
+        {
+          "ID": 1663227939,
+          "Korisnik": "user",
+          "Aviokompanija": "Serbia Air",
+          "Let": {
+            "IsDeleted": false,
+            "ID": 749066356,
+            "Aviokompanija": "Serbia Air",
+            "PolaznaDestinacija": "Nis",
+            "DolaznaDestinacija": "Beograd",
+            "DatumIVremePolaska": "2024-06-30T13:35:00Z",
+            "DatumIVremeDolaska": "2024-06-30T15:00:00Z",
+            "BrSlobodnihMesta": 199,
+            "BrZauzetihMesta": 1,
+            "Cena": 50.0,
+            "Status": 2
+          },
+          "BrPutnika": 1,
+          "UkupnaCena": 50.0,
+          "Status": 3
+        },
+        {
+          "ID": 1124320635,
+          "Korisnik": "user",
+          "Aviokompanija": "Emirates Air",
+          "Let": {
+            "IsDeleted": true,
+            "ID": 4,
+            "Aviokompanija": "Emirates Air",
+            "PolaznaDestinacija": "Beograd",
+            "DolaznaDestinacija": "Barcelona",
+            "DatumIVremePolaska": "2024-07-19T00:00:00",
+            "DatumIVremeDolaska": "2024-07-19T04:00:00",
+            "BrSlobodnihMesta": 200,
+            "BrZauzetihMesta": 0,
+            "Cena": 40.0,
+            "Status": 1
+          },
+          "BrPutnika": 1,
+          "UkupnaCena": 40.0,
+          "Status": 2
+        },
+        {
+          "ID": 1499728295,
+          "Korisnik": "user",
+          "Aviokompanija": "Serbia Air",
+          "Let": {
+            "IsDeleted": false,
+            "ID": 6,
+            "Aviokompanija": "Serbia Air",
+            "PolaznaDestinacija": "Beograd",
+            "DolaznaDestinacija": "Chicago",
+            "DatumIVremePolaska": "2024-07-29T00:00:00",
+            "DatumIVremeDolaska": "2024-07-29T04:00:00",
+            "BrSlobodnihMesta": 99,
+            "BrZauzetihMesta": 1,
+            "Cena": 500.0,
+            "Status": 0
+          },
+          "BrPutnika": 1,
+          "UkupnaCena": 500.0,
+          "Status": 0
+        }
+      ]
+    },
+    "Aviokompanija": "Serbia Air",
+    "Naslov": "Great Flight",
+    "Sadrzaj": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "Image": null,
+    "ImagePath": "\\Images\\Debug2.PNG",
+    "Status": 1
+  },
+  {
+    "ID": 565618933,
+    "Recezent": {
+      "ID": 0,
+      "Username": "user",
+      "Password": "user",
+      "Name": "John",
+      "Surname": "Doe",
+      "Email": "john.doe@example.com",
+      "DateOfBirth": "2016-09-06T00:00:00Z",
+      "Gender": 0,
+      "Type": 0,
+      "Rezervacije": [
+        {
+          "ID": 1663227939,
+          "Korisnik": "user",
+          "Aviokompanija": "Serbia Air",
+          "Let": {
+            "IsDeleted": false,
+            "ID": 749066356,
+            "Aviokompanija": "Serbia Air",
+            "PolaznaDestinacija": "Nis",
+            "DolaznaDestinacija": "Beograd",
+            "DatumIVremePolaska": "2024-06-30T13:35:00Z",
+            "DatumIVremeDolaska": "2024-06-30T15:00:00Z",
+            "BrSlobodnihMesta": 199,
+            "BrZauzetihMesta": 1,
+            "Cena": 50.0,
+            "Status": 2
+          },
+          "BrPutnika": 1,
+          "UkupnaCena": 50.0,
+          "Status": 3
+        },
+        {
+          "ID": 1124320635,
+          "Korisnik": "user",
+          "Aviokompanija": "Emirates Air",
+          "Let": {
+            "IsDeleted": true,
+            "ID": 4,
+            "Aviokompanija": "Emirates Air",
+            "PolaznaDestinacija": "Beograd",
+            "DolaznaDestinacija": "Barcelona",
+            "DatumIVremePolaska": "2024-07-19T00:00:00",
+            "DatumIVremeDolaska": "2024-07-19T04:00:00",
+            "BrSlobodnihMesta": 200,
+            "BrZauzetihMesta": 0,
+            "Cena": 40.0,
+            "Status": 1
+          },
+          "BrPutnika": 1,
+          "UkupnaCena": 40.0,
+          "Status": 2
+        },
+        {
+          "ID": 1499728295,
+          "Korisnik": "user",
+          "Aviokompanija": "Serbia Air",
+          "Let": {
+            "IsDeleted": true,
+            "ID": 6,
+            "Aviokompanija": "Serbia Air",
+            "PolaznaDestinacija": "Beograd",
+            "DolaznaDestinacija": "Chicago",
+            "DatumIVremePolaska": "2024-07-29T00:00:00",
+            "DatumIVremeDolaska": "2024-07-29T04:00:00",
+            "BrSlobodnihMesta": 99,
+            "BrZauzetihMesta": 1,
+            "Cena": 500.0,
+            "Status": 1
+          },
+          "BrPutnika": 1,
+          "UkupnaCena": 500.0,
+          "Status": 2
+        },
+        {
+          "ID": 739645273,
+          "Korisnik": "user",
+          "Aviokompanija": "Wizz",
+          "Let": {
+            "IsDeleted": false,
+            "ID": 1,
+            "Aviokompanija": "Wizz",
+            "PolaznaDestinacija": "Banja Luka",
+            "DolaznaDestinacija": "Pariz",
+            "DatumIVremePolaska": "2024-06-29T00:00:00",
+            "DatumIVremeDolaska": "2024-07-09T04:00:00",
+            "BrSlobodnihMesta": 48,
+            "BrZauzetihMesta": 2,
+            "Cena": 25.0,
+            "Status": 2
+          },
+          "BrPutnika": 3,
+          "UkupnaCena": 75.0,
+          "Status": 3
+        }
+      ]
+    },
+    "Aviokompanija": "Wizz",
+    "Naslov": "Good flight",
+    "Sadrzaj": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "Image": null,
+    "ImagePath": "\\Images\\noImage.jpg",
+    "Status": 1
+  },
+  {
+    "ID": 1169007828,
+    "Recezent": {
+      "ID": 363884616,
+      "Username": "losmi",
+      "Password": "sifra123",
+      "Name": "Milos",
+      "Surname": "Milosevic",
+      "Email": "losmi@gmail.com",
+      "DateOfBirth": "2001-07-10T00:00:00Z",
+      "Gender": 0,
+      "Type": 0,
+      "Rezervacije": [
+        {
+          "ID": 510785668,
+          "Korisnik": "losmi",
+          "Aviokompanija": "Wizz",
+          "Let": {
+            "IsDeleted": false,
+            "ID": 582606612,
+            "Aviokompanija": "Wizz",
+            "PolaznaDestinacija": "Beograd",
+            "DolaznaDestinacija": "Minhen",
+            "DatumIVremePolaska": "2024-07-04T12:00:00Z",
+            "DatumIVremeDolaska": "2024-07-05T14:00:00Z",
+            "BrSlobodnihMesta": 118,
+            "BrZauzetihMesta": 2,
+            "Cena": 25.0,
+            "Status": 0
+          },
+          "BrPutnika": 2,
+          "UkupnaCena": 50.0,
+          "Status": 2
+        },
+        {
+          "ID": 1056732763,
+          "Korisnik": "losmi",
+          "Aviokompanija": "Wizz",
+          "Let": {
+            "IsDeleted": false,
+            "ID": 1,
+            "Aviokompanija": "Wizz",
+            "PolaznaDestinacija": "Banja Luka",
+            "DolaznaDestinacija": "Pariz",
+            "DatumIVremePolaska": "2024-06-29T00:00:00",
+            "DatumIVremeDolaska": "2024-07-09T04:00:00",
+            "BrSlobodnihMesta": 48,
+            "BrZauzetihMesta": 2,
+            "Cena": 25.0,
+            "Status": 2
+          },
+          "BrPutnika": 1,
+          "UkupnaCena": 25.0,
+          "Status": 3
+        }
+      ]
+    },
+    "Aviokompanija": "Wizz",
+    "Naslov": "Great Experience",
+    "Sadrzaj": "\tLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "Image": null,
+    "ImagePath": "\\Images\\flight.jpg",
+    "Status": 1
+  },
+  {
+    "ID": 367648176,
+    "Recezent": {
+      "ID": 875851719,
+      "Username": "minja",
+      "Password": "volimukija",
+      "Name": "Minja",
+      "Surname": "Jovic",
+      "Email": "minja@gmail.com",
+      "DateOfBirth": "2002-04-25T00:00:00Z",
+      "Gender": 1,
+      "Type": 0,
+      "Rezervacije": [
+        {
+          "ID": 1823895014,
+          "Korisnik": "minja",
+          "Aviokompanija": "Serbia Air",
+          "Let": {
+            "IsDeleted": false,
+            "ID": 1793313338,
+            "Aviokompanija": "Serbia Air",
+            "PolaznaDestinacija": "Beograd",
+            "DolaznaDestinacija": "Dubai",
+            "DatumIVremePolaska": "2024-06-30T22:50:00Z",
+            "DatumIVremeDolaska": "2024-06-30T23:30:00Z",
+            "BrSlobodnihMesta": 0,
+            "BrZauzetihMesta": 2,
+            "Cena": 50.0,
+            "Status": 2
+          },
+          "BrPutnika": 2,
+          "UkupnaCena": 100.0,
+          "Status": 3
+        },
+        {
+          "ID": 1120026641,
+          "Korisnik": "minja",
+          "Aviokompanija": "Wizz",
+          "Let": {
+            "IsDeleted": false,
+            "ID": 582606612,
+            "Aviokompanija": "Wizz",
+            "PolaznaDestinacija": "Beograd",
+            "DolaznaDestinacija": "Minhen",
+            "DatumIVremePolaska": "2024-07-04T12:00:00Z",
+            "DatumIVremeDolaska": "2024-07-05T14:00:00Z",
+            "BrSlobodnihMesta": 119,
+            "BrZauzetihMesta": 1,
+            "Cena": 25.0,
+            "Status": 0
+          },
+          "BrPutnika": 1,
+          "UkupnaCena": 25.0,
+          "Status": 2
+        }
+      ]
+    },
+    "Aviokompanija": "Serbia Air",
+    "Naslov": "Very good",
+    "Sadrzaj": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+    "Image": null,
+    "ImagePath": "\\Images\\flight.jpg",
+    "Status": 1
+  }
+]

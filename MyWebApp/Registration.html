@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="styles/Registration.css">
+    <script src="Scripts/jquery-3.4.1.js"></script>
+    <script src="Scripts/Registration.js"></script>
+</head>
+<body>
+
+    <div class="registration-container">
+        <h1>Registration</h1>
+        <form id="registration-form">
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="first-name">Name:</label>
+                    <input type="text" id="first-name" name="first-name">
+                </div>
+                <div class="form-group">
+                    <label for="last-name">Surname:</label>
+                    <input type="text" id="last-name" name="last-name">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email">
+                </div>
+               
+            </div>
+            <div class="form-row">
+                
+                <div class="form-group">
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" name="username">
+                </div>
+                <div class="form-group">
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="dob">Date of birth:</label>
+                    <input type="date" id="dob" name="dob">
+                </div>
+                <div class="form-group">
+                    <label for="gender">Gender:</label>
+                    <select id="gender" name="gender">
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group button-container">
+                <button type="submit" class="btn btn-primary btn-lg" id="btnSignUp">SIGN UP</button>
+            </div>
+            <div class="guest-link">
+                <a href="Index.html">Continue as Guest</a>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>
